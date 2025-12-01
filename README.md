@@ -25,18 +25,5 @@ python manage.py runserver
 
 Here are some screenshots of the application:
 
-
-      <img src="1" alt="Screenshot 1" width="300"/>
-      <img src="1" alt="Screenshot 1" width="300"/>
-      <img src="1" alt="Screenshot 1" width="300"/>
-      <img src="1" alt="Screenshot 1" width="300"/>
-      <img src="1" alt="Screenshot 1" width="300"/>
-      <img src="1" alt="Screenshot 1" width="300"/>
-      <img src="1" alt="Screenshot 1" width="300"/>
-      <img src="1" alt="Screenshot 1" width="300"/>
-      <img src="1" alt="Screenshot 1" width="300"/>
-      <img src="1" alt="Screenshot 1" width="300"/>
-      <img src="1" alt="Screenshot 1" width="300"/>
-      <img src="1" alt="Screenshot 1" width="300"/>
-      <img src="1" alt="Screenshot 1" width="300"/>
+![My Image](Screenshot 2025-12-01 at 21.37.36.png)
       
