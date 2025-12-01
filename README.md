@@ -28,7 +28,7 @@ Here are some screenshots of the application:
 <table>
   <tr>
     <td>
-      <img src="1.png" alt="Screenshot 1" width="300"/>
+      <img src="1" alt="Screenshot 1" width="300"/>
       <p align="center"><em>Screenshot 1: Home Page</em></p>
     </td>
     <td>
