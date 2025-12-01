@@ -17,15 +17,18 @@ pip install -r requirements.txt
 cp .env.example .env
 # By default SQLite will be used (no extra steps needed)
 
-python manage.py migrate
+python manage.py migrate  
+
 python manage.py createsuperuser
+
 python manage.py loaddata fixtures/seed.json
+
 python manage.py runserver
 
 
 Here are some screenshots of the application:
 <img width="1250" height="857" alt="image" src="https://github.com/user-attachments/assets/79a2dd17-b189-4604-b6e4-5457cfad3896" >
-      <img width="1250" height="857" alt="image" src="https://github.com/user-attachments/assets/2be9e4b7-1bf0-4b5b-88ce-6b0c111d4e7a" />
+<img width="1250" height="857" alt="image" src="https://github.com/user-attachments/assets/2be9e4b7-1bf0-4b5b-88ce-6b0c111d4e7a" />
 <img width="1250" height="857" alt="image" src="https://github.com/user-attachments/assets/98da1c73-879c-46fc-be60-b4e626f2e79d" />
 
 
