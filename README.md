@@ -24,6 +24,9 @@ python manage.py runserver
 
 
 Here are some screenshots of the application:
+<img width="1250" height="857" alt="image" src="https://github.com/user-attachments/assets/79a2dd17-b189-4604-b6e4-5457cfad3896" 
+      <img width="1250" height="857" alt="image" src="https://github.com/user-attachments/assets/2be9e4b7-1bf0-4b5b-88ce-6b0c111d4e7a" />
 
-![My Image](Screenshot 2025-12-01 at 21.37.36.png)
+
+
       
